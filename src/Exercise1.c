@@ -14,8 +14,9 @@ Ex:
 
 int main(int argc, char *argv[]) {
 	//testing variable, applying it to your algorithm for auto-evaluating
-	int testcase = atoi(argv[1]);
+	//int testcase = atoi(argv[1]);
 	//Your codes here
+	echo "hellllllll";
 	
 	return 0;
 }
